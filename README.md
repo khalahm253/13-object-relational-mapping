@@ -3,8 +3,8 @@
 
 ## Links -
 * Github - 
-* Heroku -
-* Travis - 
+* Heroku -khalil-lab-13.herokuapp.com
+* Travis - https://travis-ci.com/khalahm253/13-object-relational-mapping
 
 
 ## Server Endpoints
